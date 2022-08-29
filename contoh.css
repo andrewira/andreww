@@ -27,12 +27,18 @@ nav{
     align-items: center;
     align-content: center;
     flex-direction: column;
+    
 }
 .container{
     display: inline;
     display: flex;
     text-decoration-line: inline;
+   
 }
 div{
     font-size: 25px;
+}
+.BELI{
+    color: black;
+    background-color: aqua;
 }
