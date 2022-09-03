@@ -1,7 +1,7 @@
 nav{
     height: 100%;
     width: 100%;
-    background: hsla(62, 100%, 50%, 0.91);
+    background: hsla(60, 100%, 100%, 0.91);
     padding: 10px;
     display: flex;
     justify-content: space-around;
@@ -29,7 +29,7 @@ nav{
     flex-direction: column;
     
 }
-.container{
+.container text-center{
     display: inline;
     display: flex;
     text-decoration-line: inline;
@@ -42,3 +42,13 @@ div{
     color: black;
     background-color: aqua;
 }
+.carousel-inner{
+    position: relative;
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 30px;
+}
+
+    
+
