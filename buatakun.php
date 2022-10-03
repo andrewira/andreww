@@ -44,7 +44,7 @@
       <div class="clearfix">
         <button type="submit" class="signupbtn">DAFTAR</button>
       </div>
-      <p>sudah memiliki akun?<a href="login.html" style="color:dodgerblue">masuk akun</a>.</p>
+      <p>sudah memiliki akun?<a href="login.php" style="color:dodgerblue">masuk akun</a>.</p>
       </div>
     </div>
    </div>

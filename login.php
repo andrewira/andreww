@@ -30,7 +30,7 @@
       <input type="text" placeholder="Nama"/> 
       <input type="password" placeholder="kata sandi"/>
       <button >masuk</button>
-      <p class="message">tidak memiliki akun? <a href="buatakun.html">buat akun</a></p>
+      <p class="message">tidak memiliki akun? <a href="buatakun.php">buat akun</a></p>
     </form>
   </div>
 </div>
